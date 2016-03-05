@@ -1,0 +1,43 @@
+XVIII INTRODUCTION.
+
+tive3 or in quantity, being either universal, designated by omnis or nullus,
+as the case may be, or particular, when they are designated by
+aliquis, or indefinite, when preceded by no sign at all, or lastly,
+singular, preceded (when the subject is not a proper noun) by a
+demonstrative pronoun.
+
+Chap. VI. Of Oppositas (p. 18—22). This concerns the oppo-
+sition possible in different propositions having the same terms as
+subject and predicate, and differing only in quality, quantity, or
+both. There is nothing new in this chapter, and the csquare of
+opposition³, given in the diagram on p. 18, is well-known even to
+modern logicians. prof. Bain especially1 has a fuller explanation of
+opposition than our author, who devotes less than four pages to it.
+What Prof. Bain objects to most, is the use of ‘contradictory' by
+Schoolmen to denote a less considerable opposition than the term
+‘contrary³. This, however, is a mere question of words; and if
+Wyclif were now living, he might have said that contradictories
+(such as ‘Every A is 13², ‘Some A is not 13³) seem to be less opposed
+than contraries (OEvery A is 13², ‘No A is 3³); but they are really
+more so. For the former differ both in quality and in quantity; and
+it is impossible, so great is their difference‚ to class both of thern
+either among true or among false propositions.
+
+We may, therefore, pass over this chapter, merely noting down
+the laws stated by Wyclif and all other logicians: (1.) Contraries.2
+Both cannot be true, but there are cases3 when both may be false.
+(2.) Subcontraries 4 may be both true and both false (‘Sorne A is ss;³
+‘Some A is not ss’). (5.) Contradictories. Neither can both be false
+nor both true. (4) Szcbalternates. If the universal proposition be true,
+its particular will be so too; but not vice versa. Wyclif omits to
+add: If the less universal be false, the more universal will be so;
+but not vice versa (Every A is B³3 ‘some A is 13³).
+
+The chapter closes with a few remarks on the predication of
+the ‘three adjacents'. It· a proposition is in three or more words, it
+predicates the third adjacent, as: ‘Man is mortal’. If in two, as:
+‘Man is‘, it predicates the second adjacent; the predicate ‘existing³
+
+¹ logie, l’nrt. l. pp. (1⁴3 ct seq. 2 P. 18, l. 5. 3 P. lo, l. 25
+l). Η), l. 5¹5.
+

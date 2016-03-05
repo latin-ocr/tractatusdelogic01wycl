@@ -1,0 +1,40 @@
+INTRODUCTION. XXV
+
+particular consequence is good and each consequent really the ante-
+cedent of the next argument, the consequence of the whole is
+good. (6.) From a universal proposition to its subalternam, (7.) from
+a particular to its corresponding indefinite, and (8.) from the general
+to the particular, the consequence is legitimate. (9.) Τ111111 may follow
+from falsehood‚ and (10.) the necessary from the contingent, but not
+vice versa in either case. (11.) A universal negative implies its corre-
+sponding singular proposition. (12.) A superior proposition implies
+its inferi0r3 but there are different, and even opposed, sorts of
+superiority and inferiority. (13.) We cannot at once conclude from
+the inferior to its superior. There are five sorts of fallacies that
+occur in such conclusions. (14.) A more general conclusion does not
+imply a less general one, unless the sign all be prefixed3 (15.) but
+then it does; also When implicitly or explicitly negative. (16.) When
+an argument from an inferior supposition to its superior is good,
+and the consequent universal, the antecedent is so too, (17.) To deny
+the conclusion, admitting one premise of a regular syllogism, is to
+deny the other premise. (18.) Of one of two contradictory terms
+anything may predicated; but nothing of both together. (19.) A
+proposition being true, it remains true if its verb be put in the
+infinitive. (20.) From an affirmative proposition with a negative predi·
+cate (A is not-B) to the same proposition vvith the negation trans-
+ferred to the verb (A is not B), the consequence is good3 but only
+for the present of the verb to be. (21.) Ais not B and A is A is
+not-B, is a true conclusion. (22.) From an affirmative proposition
+with a privative predicate (unjust‚ unwilling, &c.) 10 a negative
+vvith a corresponding positive predicate, the consequence is good.
+Chap. XIV. Of Exclusive propositions (p. 49—53). We may
+leave aside the rules of exposition relative to them, because they
+come again in Logicae Continuatio.¹ The other rules are: If only
+A is B, every B is A. If only A is Β, then A is B, no not-A is Β,
+and no Β is not-A. If only A is Β, both its exponents must be true;
+if either of its exponents are false, the proposition is not true. From
+tne truth of the exclusion itself, we cannot argue the truth of a
+negative proposition7 minus the exclusive particle3 but the reverse
+
+¹ l'. 125.
+

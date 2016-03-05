@@ -1,0 +1,44 @@
+XXVI INTRODUCTION.
+
+of that process is right. Not only men are mortal . . . no men are
+mortal. No man is a plant not only men are plantS. — We
+may notice here that not should be taken as modifying the whole
+proposition, not the adverb only3 thus signifying: It is not true
+that only . . . .
+
+Chap. XV. Of Exceptive Propositz'ons (p. 53-56). The same
+observation as before applies to the present chapter. Three rules
+besides those of exposition are given. (1.) Any exceptive proposition
+(Every A but Β is C) is incompatible with its prejacent (Every A
+is C). (2.) From an exceptive affirmative proposition we may conclude
+a negative (exceptivam negativam in the text; but this does not
+agree with the examples); and from a negative exceptive, an affir-
+mative: ‘Every A but Β is C Β is not C. No A but Β is C
+Β is C’. (3.) Any proposition may be true by making it except all
+that it does not truly include.
+
+Chap. XVI. Of Copulatz've Propositions (p. 56—57). This
+chapter and the following one seem to be slightly out of their place.
+Copulative and disjunctive propositions, being hypothetical‚ belong
+to the Third Tractate3 and the author has not yet terminated his
+summary of categorical propositions, that are dealt with at length
+in the First and Second Tractate. The rules given are: (ι.) If one
+part of a copulative (A is Β and C is Β) is false, so is the whole
+proposition, unless it be negative, with not prefixed to the whole.
+(2.) If the whole be true, each part is true. (3.) From one part
+of a copulative to the whole, vve have a false inference‚ unless the
+second inferred part be implied by the other. (4.) The contradictory
+to a copulative is a disjunctive made out of the contradictories to
+each part: ‘A is Β and C is D: either A is not Β or C is not Β.)
+
+Chap. XVII. Of Disjunctz've Propositions (p. 58, 59). RuIes:
+(Ι.) If vve admit a disjunctive: ‘Either A is Β or C is Β), and deny
+one part: ‘C is D, we have the true inference: ‘A is Β). (2.) We
+cannot generally thus infer one part unless vve deny the other; there
+are exceptions nevertheless. (3.) The contradictory to a disjunctive
+is a copulative made of the contradictories to each part: ‘Either A
+is Β or C is D: A is not Β and C is not Β.)
+
+Very little is to be said of Chaps. XVIII, XIX and XX (oo—67).
+(lh-ap. XVIII shows how to cxpound propositions and take their
+
